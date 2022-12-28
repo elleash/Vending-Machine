@@ -74,10 +74,10 @@ def s_moneys(x, y,z): #function to calculate and dispense product but for the so
         
         
 
-while True: #loops throught the vending manchine until user wants to stop
+while True: #loops through the vending machine until user wants to stop
 
     print("Welcome to the Vending Machine! \nHere is a list of our items:")
-    print("\n1 - Cold Drinks\n2 - Hot Drinks\n3 - Water\n4 - Hard Snacks\n5 - Soft Snacks") #presents the menu of categorised items
+    print("\n1 - Cold Drinks\n2 - Hot Drinks\n3 - Water\n4 - Hard Snacks\n5 - Soft Snacks") #presents the menu of categorized items
 
     choice = int(input(("\nEnter the item number of your selected item or enter 0 to quit: "))) #asks user to input their choice of food or exit out
     print("\n")
