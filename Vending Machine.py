@@ -158,7 +158,7 @@ while True: #loops through the vending machine until user wants to stop
                     new_money = int(input("Great! Your total is now $5. Please enter the amount of money you put in:")) #asks user to enter any amount of money they put in
                     n_moneys(new_money, 5, 1, 0) #calls the n_moneys function
                 
-                else: #user doen't take suggestion
+                else: #user doesn't take suggestion
                     money = int(input("Your item is $2. Please enter the amount of money you put in: ")) #asks user to enter any amount of money they put in
                     d_moneys(money, 2,1) #calls the d_moneys function
             
