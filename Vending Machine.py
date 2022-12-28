@@ -2,7 +2,7 @@ cold_drinks = {'A - Iced tea': 3,
     'B - Coke': 2, 
     "C - Sprite ": 2,} #dictionary of cold drinks
 
-hot_drinks = {'A - Coffe': 2,
+hot_drinks = {'A - Coffee': 2,
     'B - Tea': 2,
     'C - Hot Chocolate': 2,} #dictionary of ot drinks
 
